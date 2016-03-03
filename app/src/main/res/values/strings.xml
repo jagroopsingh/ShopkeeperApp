@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShopkeeperApp</string>
+    <string name="title_activity_shopkeeper_login">ShopkeeperLogin</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_mobile">Mobile</string>
+    <string name="hint_password">Password</string>
+    <string name="bt_signup">Sign Up</string>
+    <string name="bt_signin">Sign In</string>
+    <string name="bottom_text_signin">Don\'t have an account?</string>
+    <string name="title_activity_customers">Customers</string>
+    <string name="title_activity_add_customers">AddCustomers</string>
+    <string name="title_activity_customer_details">CustomerDetails</string>
+    <string name="signup_bottom">Already have an account?</string>
+    <string name="click_signin">Sign In</string>
+    <string name="string_add">Add Customer</string>
+    <string name="address">Address</string>
+    <string name="image_url">Image URL</string>
+    <string name="button_text">Add new customers</string>
+    <string name="toolbar_add_customer">Add New Customer</string>
+    <string name="toolbar_details">Customer Details</string>
+    <string name="toolbar_list_names">Customers List</string>
+    <string name="toolbar_signin">Sign In</string>
+    <string name="toolbar_signup">Sign Up</string>
+</resources>
